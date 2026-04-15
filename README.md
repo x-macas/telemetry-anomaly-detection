@@ -16,7 +16,7 @@ telemetry-anomaly-detection/
 
 ## 📊 Dataset
 
-* Source: NASA Telemetry Dataset (SMAP & MSL)
+* Source: NASA Telemetry Dataset (SMAP & MSL) (https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl/data)
 * Contains time-series sensor data from spacecraft
 * Includes labeled anomaly intervals
 
